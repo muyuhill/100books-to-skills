@@ -26,6 +26,7 @@ AI 会按那本书的框架替你思考。**不是 AI 读了一本书，是那�
 | 4 | 《从为什么开始》Simon Sinek | [start-with-why](./skills/start-with-why/) | 黄金圈 WHY→HOW→WHAT |
 | 5 | 《从0到1》Peter Thiel | [zero-to-one](./skills/zero-to-one/) | 垄断竞争 / 七个问题 / 幂次法则 |
 | 6 | 《100个副业》Chris Guillebeau | [100-side-hustles](./skills/100-side-hustles/) | 创意四法 / 分类矩阵 / 三项铁律 |
+| 7 | 《金钱心理学》Morgan Housel | [psychology-of-money](./skills/psychology-of-money/) | 20 个金钱行为洞察 / 自由 / 复利 |
 
 ---
 
