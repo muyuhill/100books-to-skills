@@ -29,7 +29,7 @@ AI 会按那本书的框架替你思考。**不是 AI 读了一本书，是那�
 
 ---
 
-## 🗺️ 路线图（精选 20 本，按优先级排列）
+## 🗺️ 路线图（110 本中精选 20 本，按优先级排列）
 
 | # | 书名 | 作者 | 核心框架 | 适配场景 |
 |---|------|------|---------|---------|
@@ -80,7 +80,7 @@ cp -r book-to-skills/skills/traffic-secrets ~/.hermes/skills/marketing/
 
 ## 🤝 贡献
 
-你的 110 本书里有想拆的？挑一本 → 提取核心框架 → 按 [traffic-secrets](./skills/traffic-secrets/SKILL.md) 的格式写 SKILL.md → 提 PR。
+你的 110 本书里有想拆的？挑一本 → 提取核心框架 → 按格式写 SKILL.md → 提 PR。目标是 100 本全部变成可调用 Skill。
 
 ---
 
