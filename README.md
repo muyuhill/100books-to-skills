@@ -80,7 +80,7 @@ cp -r book-to-skills/skills/traffic-secrets ~/.hermes/skills/marketing/
 
 ## 🤝 贡献
 
-你的 110 本书里有想拆的？挑一本 → 提取核心框架 → 按格式写 SKILL.md → 提 PR。目标是 100 本全部变成可调用 Skill。
+读过的好书里有一本想拆的？提取核心框架 → 按格式写一篇 SKILL.md → 提 PR。目标是 100 本全部变成可调用 Skill。
 
 ---
 
