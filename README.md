@@ -18,9 +18,14 @@ AI 会按那本书的框架替你思考。**不是 AI 读了一本书，是那�
 
 ## 📦 已完成的 Skill
 
-| # | 书名 | Skill 名 | 核心框架 |
-|---|------|---------|---------|
-| 1 | 《流量秘密》Russell Brunson | [traffic-secrets](./skills/traffic-secrets/) | Dream 100 / Hook-Story-Offer / 跟进漏斗 |
+| # | 书名 | Skill 目录 | 核心框架 |
+|---|------|-----------|---------|
+| 1 | 《流量秘密》Russell Brunson | [traffic-secrets](./skills/traffic-secrets/) | Dream 100 / Hook-Story-Offer |
+| 2 | 《100美元创业》Chris Guillebeau | [100-dollar-startup](./skills/100-dollar-startup/) | 收敛模型 / 技能转化 / 一页推广 |
+| 3 | 《12周工作法》Brian Moran | [12-week-year](./skills/12-week-year/) | 12周冲刺 / 周记分卡 / 时间块 |
+| 4 | 《从为什么开始》Simon Sinek | [start-with-why](./skills/start-with-why/) | 黄金圈 WHY→HOW→WHAT |
+| 5 | 《从0到1》Peter Thiel | [zero-to-one](./skills/zero-to-one/) | 垄断竞争 / 七个问题 / 幂次法则 |
+| 6 | 《100个副业》Chris Guillebeau | [100-side-hustles](./skills/100-side-hustles/) | 创意四法 / 分类矩阵 / 三项铁律 |
 
 ---
 
@@ -33,14 +38,14 @@ AI 会按那本书的框架替你思考。**不是 AI 读了一本书，是那�
 | 3 | The Psychology of Money 金钱心理学 | Morgan Housel | 20 个金钱行为偏差 | 理财决策 |
 | 4 | Show Your Work 展示你的工作 | Austin Kleon | 10 条自我营销法则 | 个人品牌、IP |
 | 5 | Deep Work 深度工作 | Cal Newport | 四种深度工作哲学 | 专注力 |
-| 6 | 100 Side Hustles 100个副业 | Chris Guillebeau | 副业分类矩阵 | 副业选择 |
+| 6 | ✅ 100 Side Hustles 100个副业 | Chris Guillebeau | 副业分类矩阵 | 副业选择 |
 | 7 | How to Get Paid for What You Know | Graham Cochrane | 知识→产品→收入 | 知识变现 |
 | 8 | Buy Back Your Time | Dan Martell | 时间套利 | 效率、外包 |
 | 9 | Steal Like an Artist 像艺术家一样偷师 | Austin Kleon | 10 条创意借鉴法则 | 内容创作 |
-| 10 | The $100 Startup 100美元创业 | Chris Guillebeau | 微创业验证框架 | 小成本创业 |
-| 11 | The 12 Week Year 12周工作法 | Brian Moran | 12 周冲刺周期 | 目标管理 |
-| 12 | Start With Why 从为什么开始 | Simon Sinek | 黄金圈法则 | 品牌、战略 |
-| 13 | Zero to One 从0到1 | Peter Thiel | 垄断 vs 竞争 | 创业思维 |
+| 10 | ✅ The $100 Startup 100美元创业 | Chris Guillebeau | 微创业验证框架 | 小成本创业 |
+| 11 | ✅ The 12 Week Year 12周工作法 | Brian Moran | 12 周冲刺周期 | 目标管理 |
+| 12 | ✅ Start With Why 从为什么开始 | Simon Sinek | 黄金圈法则 | 品牌、战略 |
+| 13 | ✅ Zero to One 从0到1 | Peter Thiel | 垄断 vs 竞争 | 创业思维 |
 | 14 | MAKE: Bootstrapper's Handbook | Pieter Levels | 单人创业系统 | 独立开发者 |
 | 15 | Expert Secrets 专家秘密 | Russell Brunson | 知识→信息产品 | 知识付费 |
 | 16 | Clear Thinking 清晰思考 | Shane Parrish | 决策框架 | 决策质量 |
