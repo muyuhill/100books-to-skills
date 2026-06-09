@@ -68,9 +68,9 @@ git clone https://github.com/你的用户名/book-to-skills.git
 cp -r book-to-skills/skills/traffic-secrets ~/.hermes/skills/marketing/
 ```
 
-### 如果你是 ChatGPT / Claude 用户
+### 如果你是 ChatGPT / Claude / 其他 Agent 用户
 
-直接把 [SKILL.md](./skills/traffic-secrets/SKILL.md) 的内容粘贴到对话中，然后说：「以后遇到流量问题，请按这个框架分析。」
+直接把任意 [SKILL.md](./skills/traffic-secrets/SKILL.md) 的内容粘贴到对话中，然后说：「以后遇到相关问题，请按这个框架分析。」
 
 ### 手动使用
 
