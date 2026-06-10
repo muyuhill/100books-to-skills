@@ -35,7 +35,7 @@ AI 会按那本书的框架替你思考。**不是 AI 读了一本书，是那�
 | # | 书名 | 作者 | 核心框架 | 适配场景 |
 |---|------|------|---------|---------|
 | 1 | ✅ Traffic Secrets 流量秘密 | Russell Brunson | Dream 100 / HSO | 内容创作、自媒体 |
-| 2 | Atomic Habits 原子习惯 | James Clear | 习惯四步法 | 自律、效率 |
+| 2 | ✅ Atomic Habits 原子习惯 | James Clear | 习惯四步法 | 自律、效率 |
 | 3 | ✅ The Psychology of Money 金钱心理学 | Morgan Housel | 20 个金钱行为偏差 | 理财决策 |
 | 4 | Show Your Work 展示你的工作 | Austin Kleon | 10 条自我营销法则 | 个人品牌、IP |
 | 5 | Deep Work 深度工作 | Cal Newport | 四种深度工作哲学 | 专注力 |
