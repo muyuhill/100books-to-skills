@@ -20,13 +20,28 @@ AI 会按那本书的框架替你思考。**不是 AI 读了一本书，是那�
 
 | # | 书名 | Skill 目录 | 核心框架 |
 |---|------|-----------|---------|
-| 1 | 《流量秘密》Russell Brunson | [traffic-secrets](./skills/traffic-secrets/) | Dream 100 / Hook-Story-Offer |
-| 2 | 《100美元创业》Chris Guillebeau | [100-dollar-startup](./skills/100-dollar-startup/) | 收敛模型 / 技能转化 / 一页推广 |
-| 3 | 《12周工作法》Brian Moran | [12-week-year](./skills/12-week-year/) | 12周冲刺 / 周记分卡 / 时间块 |
-| 4 | 《从为什么开始》Simon Sinek | [start-with-why](./skills/start-with-why/) | 黄金圈 WHY→HOW→WHAT |
-| 5 | 《从0到1》Peter Thiel | [zero-to-one](./skills/zero-to-one/) | 垄断竞争 / 七个问题 / 幂次法则 |
-| 6 | 《100个副业》Chris Guillebeau | [100-side-hustles](./skills/100-side-hustles/) | 创意四法 / 分类矩阵 / 三项铁律 |
-| 7 | 《金钱心理学》Morgan Housel | [psychology-of-money](./skills/psychology-of-money/) | 20 个金钱行为洞察 / 自由 / 复利 |
+| # | 书名 | Skill 目录 | 核心框架 |
+|---|------|-----------|---------|
+| 1 | 《流量秘密》 | [traffic-secrets](./skills/traffic-secrets/) | Dream 100 / Hook-Story-Offer |
+| 2 | 《100美元创业》 | [100-dollar-startup](./skills/100-dollar-startup/) | 收敛模型 / 技能转化 |
+| 3 | 《12周工作法》 | [12-week-year](./skills/12-week-year/) | 12周冲刺 / 周记分卡 |
+| 4 | 《从为什么开始》 | [start-with-why](./skills/start-with-why/) | 黄金圈 WHY→HOW→WHAT |
+| 5 | 《从0到1》 | [zero-to-one](./skills/zero-to-one/) | 垄断竞争 / 七个问题 |
+| 6 | 《100个副业》 | [100-side-hustles](./skills/100-side-hustles/) | 创意四法 / 分类矩阵 |
+| 7 | 《金钱心理学》 | [psychology-of-money](./skills/psychology-of-money/) | 20个金钱行为洞察 |
+| 8 | 《原子习惯》 | [atomic-habits](./skills/atomic-habits/) | 习惯四步法 / 身份驱动 |
+| 9 | 《展示你的工作》 | [show-your-work](./skills/show-your-work/) | 10条创作者法则 |
+| 10 | 《深度工作》 | [deep-work](./skills/deep-work/) | 四种深度工作哲学 |
+| 11 | 《知识变现》 | [get-paid-for-knowledge](./skills/get-paid-for-knowledge/) | 知识→内容→产品 |
+| 12 | 《买回你的时间》 | [buy-back-your-time](./skills/buy-back-your-time/) | 时间套利 / 外包策略 |
+| 13 | 《像艺术家一样偷师》 | [steal-like-an-artist](./skills/steal-like-an-artist/) | 10条创意借鉴法则 |
+| 14 | 《MAKE》 | [make-bootstrapper](./skills/make-bootstrapper/) | 单人创业四步法 |
+| 15 | 《专家秘密》 | [expert-secrets](./skills/expert-secrets/) | 知识→信息产品→粉丝 |
+| 16 | 《清晰思考》 | [clear-thinking](./skills/clear-thinking/) | 四步决策框架 |
+| 17 | 《妈妈测试》 | [mom-test](./skills/mom-test/) | 客户访谈不被骗 |
+| 18 | 《文案写作》 | [copywriting-secrets](./skills/copywriting-secrets/) | AIDA文案公式 |
+| 19 | 《思考致富》 | [think-and-grow-rich](./skills/think-and-grow-rich/) | 13条致富法则 |
+| 20 | 《排队与你做生意》 | [oversubscribed](./skills/oversubscribed/) | 供不应求策略 |
 
 ---
 
@@ -37,23 +52,23 @@ AI 会按那本书的框架替你思考。**不是 AI 读了一本书，是那�
 | 1 | ✅ Traffic Secrets 流量秘密 | Russell Brunson | Dream 100 / HSO | 内容创作、自媒体 |
 | 2 | ✅ Atomic Habits 原子习惯 | James Clear | 习惯四步法 | 自律、效率 |
 | 3 | ✅ The Psychology of Money 金钱心理学 | Morgan Housel | 20 个金钱行为偏差 | 理财决策 |
-| 4 | Show Your Work 展示你的工作 | Austin Kleon | 10 条自我营销法则 | 个人品牌、IP |
-| 5 | Deep Work 深度工作 | Cal Newport | 四种深度工作哲学 | 专注力 |
+| 4 | ✅ Show Your Work 展示你的工作 | Austin Kleon | 10 条自我营销法则 | 个人品牌、IP |
+| 5 | ✅ Deep Work 深度工作 | Cal Newport | 四种深度工作哲学 | 专注力 |
 | 6 | ✅ 100 Side Hustles 100个副业 | Chris Guillebeau | 副业分类矩阵 | 副业选择 |
-| 7 | How to Get Paid for What You Know | Graham Cochrane | 知识→产品→收入 | 知识变现 |
-| 8 | Buy Back Your Time | Dan Martell | 时间套利 | 效率、外包 |
-| 9 | Steal Like an Artist 像艺术家一样偷师 | Austin Kleon | 10 条创意借鉴法则 | 内容创作 |
+| 7 | ✅ How to Get Paid for What You Know | Graham Cochrane | 知识→产品→收入 | 知识变现 |
+| 8 | ✅ Buy Back Your Time | Dan Martell | 时间套利 | 效率、外包 |
+| 9 | ✅ Steal Like an Artist 像艺术家一样偷师 | Austin Kleon | 10 条创意借鉴法则 | 内容创作 |
 | 10 | ✅ The $100 Startup 100美元创业 | Chris Guillebeau | 微创业验证框架 | 小成本创业 |
 | 11 | ✅ The 12 Week Year 12周工作法 | Brian Moran | 12 周冲刺周期 | 目标管理 |
 | 12 | ✅ Start With Why 从为什么开始 | Simon Sinek | 黄金圈法则 | 品牌、战略 |
 | 13 | ✅ Zero to One 从0到1 | Peter Thiel | 垄断 vs 竞争 | 创业思维 |
-| 14 | MAKE: Bootstrapper's Handbook | Pieter Levels | 单人创业系统 | 独立开发者 |
-| 15 | Expert Secrets 专家秘密 | Russell Brunson | 知识→信息产品 | 知识付费 |
-| 16 | Clear Thinking 清晰思考 | Shane Parrish | 决策框架 | 决策质量 |
-| 17 | The Mom Test 妈妈测试 | Rob Fitzpatrick | 客户访谈框架 | 产品验证 |
-| 18 | Copywriting Secrets 文案写作秘诀 | Russell Brunson | 文案公式 | 营销文案 |
-| 19 | Think and Grow Rich 思考致富 | Napoleon Hill | 13 条致富法则 | 财富思维 |
-| 20 | Oversubscribed 排队与你做生意 | Daniel Priestley | 需求创造 | 市场营销 |
+| 14 | ✅ MAKE: Bootstrapper's Handbook | Pieter Levels | 单人创业系统 | 独立开发者 |
+| 15 | ✅ Expert Secrets 专家秘密 | Russell Brunson | 知识→信息产品 | 知识付费 |
+| 16 | ✅ Clear Thinking 清晰思考 | Shane Parrish | 决策框架 | 决策质量 |
+| 17 | ✅ The Mom Test 妈妈测试 | Rob Fitzpatrick | 客户访谈框架 | 产品验证 |
+| 18 | ✅ Copywriting Secrets 文案写作秘诀 | Russell Brunson | 文案公式 | 营销文案 |
+| 19 | ✅ Think and Grow Rich 思考致富 | Napoleon Hill | 13 条致富法则 | 财富思维 |
+| 20 | ✅ Oversubscribed 排队与你做生意 | Daniel Priestley | 需求创造 | 市场营销 |
 
 ---
 
