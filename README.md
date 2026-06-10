@@ -78,10 +78,10 @@ AI 会按那本书的框架替你思考。**不是 AI 读了一本书，是那�
 
 ```bash
 # 下载 Skill
-git clone https://github.com/你的用户名/book-to-skills.git
+git clone https://github.com/muyuhill/100books-to-skills.git
 
 # 复制到 Hermes 的 skills 目录
-cp -r book-to-skills/skills/traffic-secrets ~/.hermes/skills/marketing/
+cp -r 100books-to-skills/skills/traffic-secrets ~/.hermes/skills/marketing/
 ```
 
 ### 如果你是 ChatGPT / Claude / 其他 Agent 用户
