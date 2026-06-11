@@ -27,26 +27,26 @@ AI will think using that book's framework. **It's not AI reading a book — it's
 
 | # | 书名 Book | Skill 目录 Folder | 核心框架 Core Framework |
 |---|-----------|-------------------|------------------------|
-| 1 | 《流量秘密》Traffic Secrets | [流量秘密](./skills/流量秘密-traffic-secrets/)<br>[Traffic Secrets](./skills/流量秘密-traffic-secrets/) | Dream 100 / Hook-Story-Offer |
-| 2 | 《100美元创业》The $100 Startup | [100美元创业](./skills/100美元创业-100-dollar-startup/)<br>[The $100 Startup](./skills/100美元创业-100-dollar-startup/) | Convergence / Skill Transform |
-| 3 | 《12周工作法》The 12 Week Year | [12周工作法](./skills/12周工作法-12-week-year/)<br>[The 12 Week Year](./skills/12周工作法-12-week-year/) | 12-Week Sprint / Scorecard |
-| 4 | 《从为什么开始》Start With Why | [从为什么开始](./skills/从为什么开始-start-with-why/)<br>[Start With Why](./skills/从为什么开始-start-with-why/) | Golden Circle WHY→HOW→WHAT |
-| 5 | 《从0到1》Zero to One | [从0到1](./skills/从0到1-zero-to-one/)<br>[Zero to One](./skills/从0到1-zero-to-one/) | Monopoly / 7 Questions |
-| 6 | 《100个副业》100 Side Hustles | [100个副业](./skills/100个副业-100-side-hustles/)<br>[100 Side Hustles](./skills/100个副业-100-side-hustles/) | Idea Matrix / 3 Rules |
-| 7 | 《金钱心理学》Psychology of Money | [金钱心理学](./skills/金钱心理学-psychology-of-money/)<br>[Psychology of Money](./skills/金钱心理学-psychology-of-money/) | 20 Money Behavior Insights |
-| 8 | 《原子习惯》Atomic Habits | [原子习惯](./skills/原子习惯-atomic-habits/)<br>[Atomic Habits](./skills/原子习惯-atomic-habits/) | 4 Laws / Identity-Driven |
-| 9 | 《展示你的工作》Show Your Work | [展示你的工作](./skills/展示你的工作-show-your-work/)<br>[Show Your Work](./skills/展示你的工作-show-your-work/) | 10 Creator Rules |
-| 10 | 《深度工作》Deep Work | [深度工作](./skills/深度工作-deep-work/)<br>[Deep Work](./skills/深度工作-deep-work/) | 4 Deep Work Philosophies |
-| 11 | 《知识变现》Get Paid for Knowledge | [知识变现](./skills/知识变现-get-paid-for-knowledge/)<br>[Get Paid for Knowledge](./skills/知识变现-get-paid-for-knowledge/) | Knowledge→Content→Product |
-| 12 | 《买回你的时间》Buy Back Your Time | [买回你的时间](./skills/买回你的时间-buy-back-your-time/)<br>[Buy Back Your Time](./skills/买回你的时间-buy-back-your-time/) | Time Arbitrage / Outsource |
-| 13 | 《像艺术家一样偷师》Steal Like an Artist | [像艺术家一样偷师](./skills/像艺术家一样偷师-steal-like-an-artist/)<br>[Steal Like an Artist](./skills/像艺术家一样偷师-steal-like-an-artist/) | 10 Creative Theft Rules |
-| 14 | 《MAKE》Bootstrapper's Handbook | [MAKE](./skills/MAKE-创业者手册-make-bootstrapper/)<br>[Bootstrapper's Handbook](./skills/MAKE-创业者手册-make-bootstrapper/) | Solo Startup 4 Steps |
-| 15 | 《专家秘密》Expert Secrets | [专家秘密](./skills/专家秘密-expert-secrets/)<br>[Expert Secrets](./skills/专家秘密-expert-secrets/) | Knowledge→Info Product→Tribe |
-| 16 | 《清晰思考》Clear Thinking | [清晰思考](./skills/清晰思考-clear-thinking/)<br>[Clear Thinking](./skills/清晰思考-clear-thinking/) | 4-Step Decision Framework |
-| 17 | 《妈妈测试》The Mom Test | [妈妈测试](./skills/妈妈测试-mom-test/)<br>[The Mom Test](./skills/妈妈测试-mom-test/) | Customer Interview Anti-Lies |
-| 18 | 《文案写作》Copywriting Secrets | [文案写作](./skills/文案写作-copywriting-secrets/)<br>[Copywriting Secrets](./skills/文案写作-copywriting-secrets/) | AIDA Formula |
-| 19 | 《思考致富》Think and Grow Rich | [思考致富](./skills/思考致富-think-and-grow-rich/)<br>[Think and Grow Rich](./skills/思考致富-think-and-grow-rich/) | 13 Wealth Principles |
-| 20 | 《排队与你做生意》Oversubscribed | [排队与你做生意](./skills/排队与你做生意-oversubscribed/)<br>[Oversubscribed](./skills/排队与你做生意-oversubscribed/) | Demand Creation Strategy |
+| 1 | 《流量秘密》Traffic Secrets | [流量秘密](./skills/流量秘密-traffic-secrets/)<br>[Traffic Secrets](./skills/流量秘密-traffic-secrets/) | Dream 100 / Hook-Story-Offer<br>梦想100 / 钩子-故事-提议 |
+| 2 | 《100美元创业》The $100 Startup | [100美元创业](./skills/100美元创业-100-dollar-startup/)<br>[The $100 Startup](./skills/100美元创业-100-dollar-startup/) | Convergence / Skill Transform<br>收敛模型 / 技能转化 |
+| 3 | 《12周工作法》The 12 Week Year | [12周工作法](./skills/12周工作法-12-week-year/)<br>[The 12 Week Year](./skills/12周工作法-12-week-year/) | 12-Week Sprint / Scorecard<br>12周冲刺 / 周记分卡 |
+| 4 | 《从为什么开始》Start With Why | [从为什么开始](./skills/从为什么开始-start-with-why/)<br>[Start With Why](./skills/从为什么开始-start-with-why/) | Golden Circle WHY→HOW→WHAT<br>黄金圈法则 |
+| 5 | 《从0到1》Zero to One | [从0到1](./skills/从0到1-zero-to-one/)<br>[Zero to One](./skills/从0到1-zero-to-one/) | Monopoly / 7 Questions<br>垄断竞争 / 七个问题 |
+| 6 | 《100个副业》100 Side Hustles | [100个副业](./skills/100个副业-100-side-hustles/)<br>[100 Side Hustles](./skills/100个副业-100-side-hustles/) | Idea Matrix / 3 Rules<br>创意矩阵 / 三项铁律 |
+| 7 | 《金钱心理学》Psychology of Money | [金钱心理学](./skills/金钱心理学-psychology-of-money/)<br>[Psychology of Money](./skills/金钱心理学-psychology-of-money/) | 20 Money Behavior Insights<br>20个金钱行为洞察 |
+| 8 | 《原子习惯》Atomic Habits | [原子习惯](./skills/原子习惯-atomic-habits/)<br>[Atomic Habits](./skills/原子习惯-atomic-habits/) | 4 Laws / Identity-Driven<br>四步法 / 身份驱动 |
+| 9 | 《展示你的工作》Show Your Work | [展示你的工作](./skills/展示你的工作-show-your-work/)<br>[Show Your Work](./skills/展示你的工作-show-your-work/) | 10 Creator Rules<br>10条创作者法则 |
+| 10 | 《深度工作》Deep Work | [深度工作](./skills/深度工作-deep-work/)<br>[Deep Work](./skills/深度工作-deep-work/) | 4 Deep Work Philosophies<br>四种深度工作哲学 |
+| 11 | 《知识变现》Get Paid for Knowledge | [知识变现](./skills/知识变现-get-paid-for-knowledge/)<br>[Get Paid for Knowledge](./skills/知识变现-get-paid-for-knowledge/) | Knowledge→Content→Product<br>知识→内容→产品 |
+| 12 | 《买回你的时间》Buy Back Your Time | [买回你的时间](./skills/买回你的时间-buy-back-your-time/)<br>[Buy Back Your Time](./skills/买回你的时间-buy-back-your-time/) | Time Arbitrage / Outsource<br>时间套利 / 外包策略 |
+| 13 | 《像艺术家一样偷师》Steal Like an Artist | [像艺术家一样偷师](./skills/像艺术家一样偷师-steal-like-an-artist/)<br>[Steal Like an Artist](./skills/像艺术家一样偷师-steal-like-an-artist/) | 10 Creative Theft Rules<br>10条创意借鉴法则 |
+| 14 | 《MAKE》Bootstrapper's Handbook | [MAKE](./skills/MAKE-创业者手册-make-bootstrapper/)<br>[Bootstrapper's Handbook](./skills/MAKE-创业者手册-make-bootstrapper/) | Solo Startup 4 Steps<br>单人创业四步法 |
+| 15 | 《专家秘密》Expert Secrets | [专家秘密](./skills/专家秘密-expert-secrets/)<br>[Expert Secrets](./skills/专家秘密-expert-secrets/) | Knowledge→Info Product→Tribe<br>知识→信息产品→粉丝社群 |
+| 16 | 《清晰思考》Clear Thinking | [清晰思考](./skills/清晰思考-clear-thinking/)<br>[Clear Thinking](./skills/清晰思考-clear-thinking/) | 4-Step Decision Framework<br>四步决策框架 |
+| 17 | 《妈妈测试》The Mom Test | [妈妈测试](./skills/妈妈测试-mom-test/)<br>[The Mom Test](./skills/妈妈测试-mom-test/) | Customer Interview Anti-Lies<br>客户访谈防骗指南 |
+| 18 | 《文案写作》Copywriting Secrets | [文案写作](./skills/文案写作-copywriting-secrets/)<br>[Copywriting Secrets](./skills/文案写作-copywriting-secrets/) | AIDA Formula<br>AIDA文案公式 |
+| 19 | 《思考致富》Think and Grow Rich | [思考致富](./skills/思考致富-think-and-grow-rich/)<br>[Think and Grow Rich](./skills/思考致富-think-and-grow-rich/) | 13 Wealth Principles<br>13条致富法则 |
+| 20 | 《排队与你做生意》Oversubscribed | [排队与你做生意](./skills/排队与你做生意-oversubscribed/)<br>[Oversubscribed](./skills/排队与你做生意-oversubscribed/) | Demand Creation Strategy<br>需求创造策略 |
 
 ---
 
