@@ -22,26 +22,26 @@ AI 会按那本书的框架替你思考。**不是 AI 读了一本书，是那�
 |---|------|-----------|---------|
 | # | 书名 | Skill 目录 | 核心框架 |
 |---|------|-----------|---------|
-| 1 | 《流量秘密》 | [traffic-secrets](./skills/traffic-secrets/) | Dream 100 / Hook-Story-Offer |
-| 2 | 《100美元创业》 | [100-dollar-startup](./skills/100-dollar-startup/) | 收敛模型 / 技能转化 |
-| 3 | 《12周工作法》 | [12-week-year](./skills/12-week-year/) | 12周冲刺 / 周记分卡 |
-| 4 | 《从为什么开始》 | [start-with-why](./skills/start-with-why/) | 黄金圈 WHY→HOW→WHAT |
-| 5 | 《从0到1》 | [zero-to-one](./skills/zero-to-one/) | 垄断竞争 / 七个问题 |
-| 6 | 《100个副业》 | [100-side-hustles](./skills/100-side-hustles/) | 创意四法 / 分类矩阵 |
-| 7 | 《金钱心理学》 | [psychology-of-money](./skills/psychology-of-money/) | 20个金钱行为洞察 |
-| 8 | 《原子习惯》 | [atomic-habits](./skills/atomic-habits/) | 习惯四步法 / 身份驱动 |
-| 9 | 《展示你的工作》 | [show-your-work](./skills/show-your-work/) | 10条创作者法则 |
-| 10 | 《深度工作》 | [deep-work](./skills/deep-work/) | 四种深度工作哲学 |
-| 11 | 《知识变现》 | [get-paid-for-knowledge](./skills/get-paid-for-knowledge/) | 知识→内容→产品 |
-| 12 | 《买回你的时间》 | [buy-back-your-time](./skills/buy-back-your-time/) | 时间套利 / 外包策略 |
-| 13 | 《像艺术家一样偷师》 | [steal-like-an-artist](./skills/steal-like-an-artist/) | 10条创意借鉴法则 |
-| 14 | 《MAKE》 | [make-bootstrapper](./skills/make-bootstrapper/) | 单人创业四步法 |
-| 15 | 《专家秘密》 | [expert-secrets](./skills/expert-secrets/) | 知识→信息产品→粉丝 |
-| 16 | 《清晰思考》 | [clear-thinking](./skills/clear-thinking/) | 四步决策框架 |
-| 17 | 《妈妈测试》 | [mom-test](./skills/mom-test/) | 客户访谈不被骗 |
-| 18 | 《文案写作》 | [copywriting-secrets](./skills/copywriting-secrets/) | AIDA文案公式 |
-| 19 | 《思考致富》 | [think-and-grow-rich](./skills/think-and-grow-rich/) | 13条致富法则 |
-| 20 | 《排队与你做生意》 | [oversubscribed](./skills/oversubscribed/) | 供不应求策略 |
+| 1 | 《流量秘密》 | [traffic-secrets](./skills/流量秘密-traffic-secrets/) | Dream 100 / Hook-Story-Offer |
+| 2 | 《100美元创业》 | [100-dollar-startup](./skills/100美元创业-100-dollar-startup/) | 收敛模型 / 技能转化 |
+| 3 | 《12周工作法》 | [12-week-year](./skills/12周工作法-12-week-year/) | 12周冲刺 / 周记分卡 |
+| 4 | 《从为什么开始》 | [start-with-why](./skills/从为什么开始-start-with-why/) | 黄金圈 WHY→HOW→WHAT |
+| 5 | 《从0到1》 | [zero-to-one](./skills/从0到1-zero-to-one/) | 垄断竞争 / 七个问题 |
+| 6 | 《100个副业》 | [100-side-hustles](./skills/100个副业-100-side-hustles/) | 创意四法 / 分类矩阵 |
+| 7 | 《金钱心理学》 | [psychology-of-money](./skills/金钱心理学-psychology-of-money/) | 20个金钱行为洞察 |
+| 8 | 《原子习惯》 | [atomic-habits](./skills/原子习惯-atomic-habits/) | 习惯四步法 / 身份驱动 |
+| 9 | 《展示你的工作》 | [show-your-work](./skills/展示你的工作-show-your-work/) | 10条创作者法则 |
+| 10 | 《深度工作》 | [deep-work](./skills/深度工作-deep-work/) | 四种深度工作哲学 |
+| 11 | 《知识变现》 | [get-paid-for-knowledge](./skills/知识变现-get-paid-for-knowledge/) | 知识→内容→产品 |
+| 12 | 《买回你的时间》 | [buy-back-your-time](./skills/买回你的时间-buy-back-your-time/) | 时间套利 / 外包策略 |
+| 13 | 《像艺术家一样偷师》 | [steal-like-an-artist](./skills/像艺术家一样偷师-steal-like-an-artist/) | 10条创意借鉴法则 |
+| 14 | 《MAKE》 | [make-bootstrapper](./skills/MAKE-创业者手册-make-bootstrapper/) | 单人创业四步法 |
+| 15 | 《专家秘密》 | [expert-secrets](./skills/专家秘密-expert-secrets/) | 知识→信息产品→粉丝 |
+| 16 | 《清晰思考》 | [clear-thinking](./skills/清晰思考-clear-thinking/) | 四步决策框架 |
+| 17 | 《妈妈测试》 | [mom-test](./skills/妈妈测试-mom-test/) | 客户访谈不被骗 |
+| 18 | 《文案写作》 | [copywriting-secrets](./skills/文案写作-copywriting-secrets/) | AIDA文案公式 |
+| 19 | 《思考致富》 | [think-and-grow-rich](./skills/思考致富-think-and-grow-rich/) | 13条致富法则 |
+| 20 | 《排队与你做生意》 | [oversubscribed](./skills/排队与你做生意-oversubscribed/) | 供不应求策略 |
 
 ---
 
