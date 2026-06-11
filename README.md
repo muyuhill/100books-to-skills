@@ -50,33 +50,6 @@ AI will think using that book's framework. **It's not AI reading a book — it's
 
 ---
 
-## 🗺️ 路线图 / Roadmap (20/20 ✅ Complete)
-
-| # | 书名 Book | 作者 Author | 核心框架 Core |
-|---|-----------|-------------|--------------|
-| 1 | ✅ Traffic Secrets 流量秘密 | Russell Brunson | Dream 100 / HSO |
-| 2 | ✅ Atomic Habits 原子习惯 | James Clear | 4 Laws of Behavior |
-| 3 | ✅ The Psychology of Money 金钱心理学 | Morgan Housel | 20 Money Biases |
-| 4 | ✅ Show Your Work 展示你的工作 | Austin Kleon | 10 Creator Rules |
-| 5 | ✅ Deep Work 深度工作 | Cal Newport | Deep Work Philosophy |
-| 6 | ✅ 100 Side Hustles 100个副业 | Chris Guillebeau | Side Hustle Matrix |
-| 7 | ✅ How to Get Paid for What You Know | Graham Cochrane | Knowledge → Income |
-| 8 | ✅ Buy Back Your Time | Dan Martell | Time Arbitrage |
-| 9 | ✅ Steal Like an Artist 像艺术家一样偷师 | Austin Kleon | Creative Theft |
-| 10 | ✅ The $100 Startup 100美元创业 | Chris Guillebeau | Micro-Business Validation |
-| 11 | ✅ The 12 Week Year 12周工作法 | Brian Moran | 12-Week Sprint |
-| 12 | ✅ Start With Why 从为什么开始 | Simon Sinek | Golden Circle |
-| 13 | ✅ Zero to One 从0到1 | Peter Thiel | Monopoly vs Competition |
-| 14 | ✅ MAKE: Bootstrapper's Handbook | Pieter Levels | Solo Startup System |
-| 15 | ✅ Expert Secrets 专家秘密 | Russell Brunson | Knowledge → Info Product |
-| 16 | ✅ Clear Thinking 清晰思考 | Shane Parrish | Decision Framework |
-| 17 | ✅ The Mom Test 妈妈测试 | Rob Fitzpatrick | Customer Interviews |
-| 18 | ✅ Copywriting Secrets 文案写作 | Russell Brunson | Copywriting Formula |
-| 19 | ✅ Think and Grow Rich 思考致富 | Napoleon Hill | 13 Wealth Principles |
-| 20 | ✅ Oversubscribed 排队与你做生意 | Daniel Priestley | Demand Creation |
-
----
-
 ## 🚀 快速开始 / Quick Start
 
 ### Hermes Agent 用户 / Hermes Agent Users
