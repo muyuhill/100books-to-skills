@@ -23,7 +23,7 @@ AI will think using that book's framework. **It's not AI reading a book — it's
 
 ---
 
-## 📦 已完成的 Skill / Completed Skills (20/20)
+## 📦 已完成的 Skill / Completed Skills (30/30)
 
 | # | 书名 Book | Skill 目录 Folder | 核心框架 Core Framework | 能帮你干什么 What It Does |
 |---|-----------|-------------------|------------------------|---------------------------|
@@ -47,6 +47,16 @@ AI will think using that book's framework. **It's not AI reading a book — it's
 | 18 | 《文案写作》Copywriting Secrets | [文案写作](./skills/文案写作-copywriting-secrets/)<br>[Copywriting Secrets](./skills/文案写作-copywriting-secrets/) | AIDA Formula<br>AIDA文案公式 | 卖东西的文字怎么写才有效<br>Write words that actually sell |
 | 19 | 《思考致富》Think and Grow Rich | [思考致富](./skills/思考致富-think-and-grow-rich/)<br>[Think and Grow Rich](./skills/思考致富-think-and-grow-rich/) | 13 Wealth Principles<br>13条致富法则 | 建立财富思维，从想法到行动<br>Build a wealth mindset, from idea to action |
 | 20 | 《排队与你做生意》Oversubscribed | [排队与你做生意](./skills/排队与你做生意-oversubscribed/)<br>[Oversubscribed](./skills/排队与你做生意-oversubscribed/) | Demand Creation Strategy<br>需求创造策略 | 让客户主动排队找你<br>Make customers line up for your business |
+| 21 | 《影响力》Influence | [影响力](./skills/影响力-influence/)<br>[Influence](./skills/影响力-influence/) | 6 Principles of Persuasion<br>六大说服原则 | 写文案、做销售不再被人牵着走<br>Write copy and sell without being manipulated |
+| 22 | 《非暴力沟通》Nonviolent Communication | [非暴力沟通](./skills/非暴力沟通-nonviolent-communication/)<br>[NVC](./skills/非暴力沟通-nonviolent-communication/) | OFNR 4-Step Method<br>观察→感受→需要→请求 | 怎么说对方才愿意听<br>Say it so they'll actually listen |
+| 23 | 《搞定》Getting Things Done | [搞定](./skills/搞定-gtd-getting-things-done/)<br>[GTD](./skills/搞定-gtd-getting-things-done/) | GTD 5-Step Workflow<br>收集→理清→组织→回顾→执行 | 清空大脑，只做该做的事<br>Clear your mind, do only what matters |
+| 24 | 《刻意练习》Peak | [刻意练习](./skills/刻意练习-peak/)<br>[Peak](./skills/刻意练习-peak/) | Deliberate Practice 4 Elements<br>刻意练习四要素+3F原则 | 用正确的方法成为任何领域的专家<br>Become expert in anything with the right practice |
+| 25 | 《纳瓦尔宝典》Almanack of Naval | [纳瓦尔宝典](./skills/纳瓦尔宝典-almanack-of-naval/)<br>[Naval](./skills/纳瓦尔宝典-almanack-of-naval/) | Leverage + Specific Knowledge<br>财富杠杆+特定知识+幸福技能 | 找到属于你的财富和幸福路径<br>Find your path to wealth and happiness |
+| 26 | 《高效能人士的七个习惯》7 Habits | [七个习惯](./skills/高效能人士的七个习惯-7-habits/)<br>[7 Habits](./skills/高效能人士的七个习惯-7-habits/) | 7 Habits Growth Model<br>依赖→独立→互赖→更新 | 从个人成功到公众成功的完整框架<br>From personal to public victory |
+| 27 | 《精益创业》The Lean Startup | [精益创业](./skills/精益创业-lean-startup/)<br>[Lean Startup](./skills/精益创业-lean-startup/) | Build-Measure-Learn Loop<br>建造→测量→学习循环 | 用科学方法验证创业想法<br>Validate startup ideas scientifically |
+| 28 | 《疯传》Contagious | [疯传](./skills/疯传-contagious/)<br>[Contagious](./skills/疯传-contagious/) | STEPPS 6 Principles<br>社交货币/触发/情绪/公开/实用/故事 | 让你的内容自己传播<br>Make your content spread itself |
+| 29 | 《关键对话》Crucial Conversations | [关键对话](./skills/关键对话-crucial-conversations/)<br>[Crucial Conversations](./skills/关键对话-crucial-conversations/) | STATE + AMPP Method<br>高风险对话完整框架 | 意见不同时如何说真话不翻车<br>Speak truth in high-stakes moments |
+| 30 | 《原则》Principles | [原则](./skills/原则-principles/)<br>[Principles](./skills/原则-principles/) | 5-Step Process + Radical Truth<br>五步流程+极度求真透明 | 建立你的生活和工作的决策系统<br>Build your decision-making system |
 
 ---
 
